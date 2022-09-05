@@ -125,5 +125,4 @@ function displayPassword() {
   password1.textContent = createPassword();
   password2.textContent = createPassword();
 }
-createPassword();
-displayPassword();
+
